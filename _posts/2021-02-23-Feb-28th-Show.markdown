@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Show Topics - Feb 28th"
+date:   2021-02-23 14:47:04 -0600
+categories: clubcast topics
+---
+
+1. AOC And How She Crowdsourced Help For Texas
+2. Facebook's New Australian Laws
